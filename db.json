@@ -1,16 +1,49 @@
 {
-  "posts":[
+  "products": 
+  [
+    {  "id": 1,
+       "title":"Blue Stripe Stoneware Plate",
+       "brand":"Kiriko",
+       "price":40,
+       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+       "image":"/Images/blue-stripe-stoneware-plate.jpg"
+    },
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+       "id": 2,
+       "title":"Hand Painted Blue Flat Dish",
+       "brand":"Kiriko",
+       "price":28,
+       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget arcu. Curabitur ac pharetra nisl, sit amet mattis dolor.",
+       "image":"/Images/hand-painted-blue-flat-dish.jpg"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 3,
+       "title":"Heme",
+       "brand":"Dust & Form",
+       "price":52,
+       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget arcu. Curabitur ac pharetra nisl, sit amet mattis dolor.",
+       "image":"/Images/heme.jpg"
+    },
+    {  "id": 4,
+       "title":"Mashiko-Yaki Green Small Plate",
+       "brand":"Kiriko",
+       "price":28,
+       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+       "image":"/Images/mashiko-yaki-green-small-plate.jpg"
+    },
+    {  "id": 5,
+       "title":"Mashiko-Yaki Indigo Small Plate",
+       "brand":"Kiriko",
+       "price":28,
+       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+       "image":"/Images/mashiko-yaki-indigo-small-plate.jpg"
+    },
+    {  "id": 6,
+       "title":"Mashiko-Yaki Saucer",
+       "brand":"Kiriko",
+       "price":18,
+       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+       "image":"/Images/mashiko-yaki-saucer.jpg"
     }
   ]
 }
